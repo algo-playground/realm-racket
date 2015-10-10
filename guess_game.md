@@ -3,7 +3,9 @@
 # Guess Game, Realm of Racket
 
 > start: 2015-10-10
+
 > [Realm of Racket], p30
+
 > https://github.com/algo-playground/realm-racket/guess_game/guess_game.rkt
 Convinced by my friend Yushi to start learning functional programming officially today. Just try to go out of my comfort zone a bit :alien:
 
